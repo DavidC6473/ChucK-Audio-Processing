@@ -1,6 +1,6 @@
-# ChucK Project
+# ChucK Audio Processing
 
-Welcome to the ChucK Project repository! This project showcases the creative potential of the ChucK programming language by combining different musical elements to compose an immersive audio experience. By leveraging the power of ChucK, this project brings together drums, piano, bass, and user input to create a unique musical composition. Let's dive into the exciting features of each component:
+This project showcases the creative potential of the ChucK programming language by combining different musical elements to compose an immersive audio experience. By leveraging the power of ChucK, this project brings together drums, piano, bass, and user input to create a unique musical composition. Let's dive into the exciting features of each component:
 
 ## Getting Started
 
